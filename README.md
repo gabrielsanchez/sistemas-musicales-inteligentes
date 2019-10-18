@@ -19,6 +19,18 @@
 1. Composición e Inteligencia Artificial
 2. Muestra de Trabajos
 
+
+## Libretas
+[1. Intro a Libretas]()
+
+[2. Intro a Python]()
+
+[3. Ejercicio Libretas y Python]()
+
+[4. Análisis Musical]()
+
+[5. Redes Neuronales](https://colab.research.google.com/drive/1PdsXgCs9usA60B84Fk9yhH7SSQV3jEYB)
+
 ## Enlaces
 
 [Redes Neuronales Profundas / Music Transformer](https://magenta.tensorflow.org/music-transformer)
