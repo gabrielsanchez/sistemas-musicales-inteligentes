@@ -18,3 +18,7 @@
 ## Sesión 3 - Creación
 1. Composición e Inteligencia Artificial
 2. Muestra de Trabajos
+
+## Enlaces
+
+[Redes Neuronales Profundas / Music Transformer](https://magenta.tensorflow.org/music-transformer)
