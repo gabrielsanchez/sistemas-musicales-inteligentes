@@ -1,6 +1,6 @@
 # Sistemas Musicales Inteligentes
 
-Hola, este es el repositorio para el taller de Introducción a los Sistemas Musicales Inteligentes en el cual estaremos abordando diversas intersecciones entre la música e inteligencia artificial. Todo el software que utilizaremos es disponible de forma gratuita/libre.
+Este es el repositorio para el taller de Introducción a los Sistemas Musicales Inteligentes en el cual estaremos abordando diversas intersecciones entre la música e inteligencia artificial. Todo el software que utilizaremos es disponible de forma gratuita/libre.
 
 ## Sesión 1 - Aprendizaje Automático y Música
 1. Introducción
