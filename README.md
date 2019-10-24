@@ -34,6 +34,8 @@ Este es el repositorio para el taller de Introducción a los Sistemas Musicales 
 5. [Redes Neuronales](https://colab.research.google.com/drive/1PdsXgCs9usA60B84Fk9yhH7SSQV3jEYB)
 
 ## Enlaces
+[Weka](https://www.cs.waikato.ac.nz/ml/weka/)
+
 [Wekinator](http://www.wekinator.org/)
 
 [Redes Neuronales Profundas / Music Transformer](https://magenta.tensorflow.org/music-transformer)
