@@ -36,8 +36,13 @@ Este es el repositorio para el taller de Introducción a los Sistemas Musicales 
 ## Enlaces
 [Weka](https://www.cs.waikato.ac.nz/ml/weka/)
 
+[UCI Datasets](https://archive.ics.uci.edu/ml/datasets.php)
+
 [Weka Datasets](https://github.com/lpfgarcia/ucipp/tree/master/uci)
 
 [Wekinator](http://www.wekinator.org/)
 
 [Redes Neuronales Profundas / Music Transformer](https://magenta.tensorflow.org/music-transformer)
+
+## Videos
+
