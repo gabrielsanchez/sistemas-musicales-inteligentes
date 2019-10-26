@@ -47,5 +47,9 @@ Este es el repositorio para el taller de Introducción a los Sistemas Musicales 
 
 [Redes Neuronales Profundas / Music Transformer](https://magenta.tensorflow.org/music-transformer)
 
+[Markov Chains](https://pypi.org/project/markovchain/)
+
+[Intro to Collective Algorithmic Composition](https://gabrielsanchez.gitbooks.io/an-introduction-to-collective-algorithmic-music-c/content/index.html)
+
 ## Videos
 
