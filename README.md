@@ -30,6 +30,8 @@ Este es el repositorio para el taller de Introducción a los Sistemas Musicales 
 
 3. [Ejercicio Libretas y Python]()
 
+4. [Clasificación de Audio](https://colab.research.google.com/drive/1jY29cLk5Jj-ppEV0DoHiy1Fakj0svsDh)
+
 4. [Análisis Musical]()
 
 5. [Redes Neuronales](https://colab.research.google.com/drive/1PdsXgCs9usA60B84Fk9yhH7SSQV3jEYB)
