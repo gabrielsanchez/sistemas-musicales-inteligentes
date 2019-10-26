@@ -24,17 +24,17 @@ Este es el repositorio para el taller de Introducción a los Sistemas Musicales 
 
 
 ## Libretas
-1. [Intro a Libretas]()
+1. [Intro a Libretas Científicas](https://colab.research.google.com/drive/1qwrXFcgMPlEaqSdVMxqKKZP9d1g6BbGp)
 
-2. [Intro a Python]()
+2. [Intro a Python](https://colab.research.google.com/drive/1jxGPFvzLlNAMMkLrByB8YQXH8B0LD7pl)
 
 3. [Ejercicio Libretas y Python]()
 
 4. [Clasificación de Audio](https://colab.research.google.com/drive/1jY29cLk5Jj-ppEV0DoHiy1Fakj0svsDh)
 
-4. [Análisis Musical]()
+5. [Análisis Musical]()
 
-5. [Redes Neuronales](https://colab.research.google.com/drive/1PdsXgCs9usA60B84Fk9yhH7SSQV3jEYB)
+6. [Redes Neuronales / Transformer](https://colab.research.google.com/drive/1PdsXgCs9usA60B84Fk9yhH7SSQV3jEYB)
 
 ## Enlaces
 [UCI Datasets](https://archive.ics.uci.edu/ml/datasets.php)
