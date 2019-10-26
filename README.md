@@ -49,6 +49,8 @@ Este es el repositorio para el taller de Introducción a los Sistemas Musicales 
 
 [Markov Chains](https://pypi.org/project/markovchain/)
 
+[pyAudioAnalysis](https://github.com/tyiannak/pyAudioAnalysis)
+
 [Intro to Collective Algorithmic Composition](https://gabrielsanchez.gitbooks.io/an-introduction-to-collective-algorithmic-music-c/content/index.html)
 
 ## Videos
