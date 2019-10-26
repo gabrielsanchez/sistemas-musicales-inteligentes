@@ -53,5 +53,14 @@ Este es el repositorio para el taller de Introducción a los Sistemas Musicales 
 
 [Intro to Collective Algorithmic Composition](https://gabrielsanchez.gitbooks.io/an-introduction-to-collective-algorithmic-music-c/content/index.html)
 
-## Videos
+## Instalar
+[Weka](https://www.cs.waikato.ac.nz/ml/weka/)
+
+[Wekinator](http://www.wekinator.org/)
+
+[Python](https://www.python.org/)
+
+[SuperCollider](https://supercollider.github.io/download)
+
+[FoxDot](https://foxdot.org/installation/)
 
