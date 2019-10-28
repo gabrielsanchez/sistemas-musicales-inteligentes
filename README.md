@@ -15,12 +15,10 @@ Este es el repositorio para el taller de Introducción a los Sistemas Musicales 
 3. Clasificación de Sonidos y Música
 4. Análisis Algorítmico de Música
 5. Ejercicio Análisis
-6. Automatización
-7. Ejercicio de Automatización
 
 ## Sesión 3 - Creación
 1. Composición e Inteligencia Artificial
-2. Muestra de Trabajos
+2. Muestra de Proyectos
 
 
 ## Libretas
@@ -63,4 +61,11 @@ Este es el repositorio para el taller de Introducción a los Sistemas Musicales 
 [SuperCollider](https://supercollider.github.io/download)
 
 [FoxDot](https://foxdot.org/installation/)
+
+## Videos
+[Weka](https://wekatutorial.com/)
+
+[Wekinator](http://www.wekinator.org/example-projects/)
+
+[Wekinator Tutoriales](https://www.youtube.com/channel/UCot7vfr_9hTy2qp3ksTxGmg)
 
