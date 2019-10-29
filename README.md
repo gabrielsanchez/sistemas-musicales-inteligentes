@@ -26,7 +26,7 @@ Este es el repositorio para el taller de Introducción a los Sistemas Musicales 
 
 2. [Intro a Python](https://colab.research.google.com/drive/1jxGPFvzLlNAMMkLrByB8YQXH8B0LD7pl)
 
-3. [Ejercicio Libretas y Python]()
+3. [Ejercicio Libretas y Python](https://colab.research.google.com/drive/1Gkoem80ErxRhH5RHIGYQ0ZuqTX-btydw)
 
 4. [Clasificación de Audio](https://colab.research.google.com/drive/1jY29cLk5Jj-ppEV0DoHiy1Fakj0svsDh)
 
