@@ -39,6 +39,10 @@ Este es el repositorio para el taller de Introducción a los Sistemas Musicales 
 8. [Redes Neuronales / Transformer](https://colab.research.google.com/drive/1PdsXgCs9usA60B84Fk9yhH7SSQV3jEYB)
 
 ## Enlaces
+[Hydra](https://github.com/ojack/hydra)
+
+[Hydra Web Editor](https://hydra-editor.glitch.me/)
+
 [UCI Datasets](https://archive.ics.uci.edu/ml/datasets.php)
 
 [Weka Datasets](https://github.com/lpfgarcia/ucipp/tree/master/uci)
@@ -70,4 +74,6 @@ Este es el repositorio para el taller de Introducción a los Sistemas Musicales 
 [Wekinator](http://www.wekinator.org/example-projects/)
 
 [Wekinator Tutoriales](https://www.youtube.com/channel/UCot7vfr_9hTy2qp3ksTxGmg)
+
+
 
