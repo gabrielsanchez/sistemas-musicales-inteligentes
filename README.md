@@ -32,9 +32,11 @@ Este es el repositorio para el taller de Introducción a los Sistemas Musicales 
 
 5. [Cadenas de Markov](https://colab.research.google.com/drive/1JJtjK1VrQ1VFOvf-wwIMxQnPMe0ey80j)
 
-6. [Análisis Musical]()
+6. [Algoritmo Genetico](https://colab.research.google.com/drive/1BwJAXq8BPvIFWFiBR0-rKj7kClQsJcVU)
 
-7. [Redes Neuronales / Transformer](https://colab.research.google.com/drive/1PdsXgCs9usA60B84Fk9yhH7SSQV3jEYB)
+7. [Análisis Musical]()
+
+8. [Redes Neuronales / Transformer](https://colab.research.google.com/drive/1PdsXgCs9usA60B84Fk9yhH7SSQV3jEYB)
 
 ## Enlaces
 [UCI Datasets](https://archive.ics.uci.edu/ml/datasets.php)
